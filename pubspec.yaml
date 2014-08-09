@@ -1,0 +1,10 @@
+name: yelp
+version: 0.0.1
+author: David Kopec
+description: Yelp API Library for Dart
+homepage: https://github.com/davecom/yelp
+environment:
+  sdk: 1.5.8
+dependencies:
+  http: '>0.11.0'
+  oauth: '>=0.2.1'
